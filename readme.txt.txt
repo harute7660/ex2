@@ -5,3 +5,5 @@ Name: gigun king
 legend bal saeng;;;;;;;;;;;;;
 
 plz jong gang....
+
+legend switch 2 !!
